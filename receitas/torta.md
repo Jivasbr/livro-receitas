@@ -1,4 +1,4 @@
-# Torta de Frango :chicken:
+# ***Torta de Frango*** **:chicken:**
 
 ### Ingredientes
 
@@ -17,7 +17,7 @@
 - 1 lata de milho
 - 1 pintada de sal
 - 1 peito de frango cozido e desfiado
-- óleo
+- Óleo
 - Cebola
 - Alho
 - Tomate
@@ -30,3 +30,5 @@
 3. Para o recheio, refogue o frango com óleo, cebola, tomate, ervilha, milho e o cheiro verde.
 4. Despeje a massa em uma assadeira untada e, depois, acrescente o recheio por restante o resto da massa.
 5. Leve para assar em forno pré-aquecido por 20 minutos aproximadamente.
+
+![Alt](/receitas/img/torta.jpg "Torta")
