@@ -4,4 +4,4 @@
 
 Olá ! Bem vindo ao meu livro de receitas :wave:
 
-* Torta de Frango
+* [Torta de Frango](receitas/torta.md)
